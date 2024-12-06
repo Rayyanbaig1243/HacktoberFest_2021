@@ -48,3 +48,5 @@ That's it! If your PR passes the review and is approved, it will be merged and y
 If you learned something new or liked the experience, click the star button to star this repo!
 
 ## Happy hacking!
+
+# HOW TO CONTRIBUTE
